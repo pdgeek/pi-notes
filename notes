@@ -1,0 +1,9 @@
+#############################
+
+sudo raspi-config    #系统设定
+sudo apt-get update   #更新软件源
+sudo apt-get upgrate  # 更新软件
+lsusb  #显示usb端口挂载
+ifconfig #显示网络设定
+sudo nano /etc/network/ifconfig  #修改网络参数
+sudo apt-get install nignx php 
